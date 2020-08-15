@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="269" height="117" viewBox="0 0 269 117">
+  <g id="Group_611" data-name="Group 611" transform="translate(-785 -387)">
+    <text id="Buddy" transform="translate(871 468)" fill="#0f1318" font-size="57" font-family="Montserrat-SemiBold, Montserrat" font-weight="600" letter-spacing="-0.05em"><tspan x="0" y="0">Buddy</tspan></text>
+    <g id="Group_609" data-name="Group 609" transform="translate(785 395)">
+      <g id="Rectangle_3" data-name="Rectangle 3" transform="translate(0 11)" fill="#fff" stroke="#01ddc1" stroke-width="1">
+        <rect width="83" height="90" stroke="none"/>
+        <rect x="0.5" y="0.5" width="82" height="89" fill="none"/>
+      </g>
+      <text id="B" transform="translate(11 87)" fill="#01ddc1" font-size="88" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">B</tspan></text>
+    </g>
+  </g>
+</svg>
